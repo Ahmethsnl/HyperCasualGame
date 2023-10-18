@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9def2a3763a057045a03fdd7a6293b44, type: 3}
+  m_Name: GateData
+  m_EditorClassIdentifier: 
+  _gateIncome: 0
+  gates:
+  - Gate: {fileID: 5521652497973569692, guid: 6005973dedbdb534c86274e3c63aca40, type: 3}
+    _fireGate: 1
+    _interactionObjHealth: 5
+  - Gate: {fileID: 2165742208134009470, guid: eb5c3eddb6e92b945a91ef9b5ab23de1, type: 3}
+    _fireGate: 1
+    _interactionObjHealth: -5
+  targets:
+  - Target: {fileID: 1230481818568796262, guid: 4a8179c5173ad1842891e82305d8d6f9, type: 3}
+    _takenDamage: 7
+  - Target: {fileID: 195248281855542515, guid: 84f06cdf724c7c64aa2a44cd9e7162ca, type: 3}
+    _takenDamage: 7

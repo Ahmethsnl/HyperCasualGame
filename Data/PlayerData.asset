@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1b17464aa60b81479841c993c7880d0, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  _weaponsFireRate: 1
+  _fireRange: 0.2
+  _fireRateSubstratorAdd: 1
+  _fireRangeSubstratorAdd: 0.1
+  _weaponLevel: 14
+  _sequanceMode: 0
+  _normalMode: 1
+  _thirdSequanceMode: 1
+  weapons:
+  - Weapon: {fileID: 5693393856629322766, guid: f1ee4d097848afd4d83b3c1284507089, type: 3}
+    Damage: 1
+  - Weapon: {fileID: 5693393856629322766, guid: f1ee4d097848afd4d83b3c1284507089, type: 3}
+    Damage: 2
+  - Weapon: {fileID: 5693393856629322766, guid: f1ee4d097848afd4d83b3c1284507089, type: 3}
+    Damage: 3
+  - Weapon: {fileID: 5693393856629322766, guid: f1ee4d097848afd4d83b3c1284507089, type: 3}
+    Damage: 4
+  - Weapon: {fileID: 5693393856629322766, guid: f1ee4d097848afd4d83b3c1284507089, type: 3}
+    Damage: 5
+  - Weapon: {fileID: 5275338562686976576, guid: 4327627ddcdfd974292616bc9a3ea27b, type: 3}
+    Damage: 6
+  - Weapon: {fileID: 5275338562686976576, guid: 4327627ddcdfd974292616bc9a3ea27b, type: 3}
+    Damage: 7
+  - Weapon: {fileID: 5275338562686976576, guid: 4327627ddcdfd974292616bc9a3ea27b, type: 3}
+    Damage: 8
+  - Weapon: {fileID: 5275338562686976576, guid: 4327627ddcdfd974292616bc9a3ea27b, type: 3}
+    Damage: 9
+  - Weapon: {fileID: 5275338562686976576, guid: 4327627ddcdfd974292616bc9a3ea27b, type: 3}
+    Damage: 10
+  - Weapon: {fileID: 1303849553943532930, guid: ca3e0d8c882982f4280597e9aeb4bd58, type: 3}
+    Damage: 11
+  - Weapon: {fileID: 1303849553943532930, guid: ca3e0d8c882982f4280597e9aeb4bd58, type: 3}
+    Damage: 12
+  - Weapon: {fileID: 1303849553943532930, guid: ca3e0d8c882982f4280597e9aeb4bd58, type: 3}
+    Damage: 13
+  - Weapon: {fileID: 1303849553943532930, guid: ca3e0d8c882982f4280597e9aeb4bd58, type: 3}
+    Damage: 14
+  - Weapon: {fileID: 1303849553943532930, guid: ca3e0d8c882982f4280597e9aeb4bd58, type: 3}
+    Damage: 15
+  - Weapon: {fileID: 8992760646354686569, guid: 70310f514ea25e64faa16b7298980db1, type: 3}
+    Damage: 16
+  - Weapon: {fileID: 8992760646354686569, guid: 70310f514ea25e64faa16b7298980db1, type: 3}
+    Damage: 17
+  - Weapon: {fileID: 8992760646354686569, guid: 70310f514ea25e64faa16b7298980db1, type: 3}
+    Damage: 18
+  - Weapon: {fileID: 8992760646354686569, guid: 70310f514ea25e64faa16b7298980db1, type: 3}
+    Damage: 19
+  - Weapon: {fileID: 8992760646354686569, guid: 70310f514ea25e64faa16b7298980db1, type: 3}
+    Damage: 20
+  - Weapon: {fileID: 1621193598272943002, guid: 8dba2ff504307994496b976cb0c659f3, type: 3}
+    Damage: 21
+  - Weapon: {fileID: 1621193598272943002, guid: 8dba2ff504307994496b976cb0c659f3, type: 3}
+    Damage: 22
+  - Weapon: {fileID: 1621193598272943002, guid: 8dba2ff504307994496b976cb0c659f3, type: 3}
+    Damage: 23
+  - Weapon: {fileID: 1621193598272943002, guid: 8dba2ff504307994496b976cb0c659f3, type: 3}
+    Damage: 24
+  - Weapon: {fileID: 1621193598272943002, guid: 8dba2ff504307994496b976cb0c659f3, type: 3}
+    Damage: 25
+  - Weapon: {fileID: 1621193598272943002, guid: 8dba2ff504307994496b976cb0c659f3, type: 3}
+    Damage: 25
